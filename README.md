@@ -14,6 +14,7 @@
 <p align="left">
 <a href="https://twitter.com/@garv01patidar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@garv01patidar" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/garv patidar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="garv patidar" height="30" width="40" /></a>
+<a href="https://t.me/patidar_garv_23" target="blank"><img align="center" src="https://img.icons8.com/3d-fluency/452/telegram.png" alt="garv patidar" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
