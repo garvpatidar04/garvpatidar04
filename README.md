@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Garv Patidar</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend developer and pythonist from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=garvpatidar04&label=Profile%20views&color=0e75b6&style=flat" alt="garvpatidar04" /> </p>
 
-- 🌱 I’m currently learning **Web development**
+- 🌱 I’m currently learning **Python and machine learning**
 
 - 📫 How to reach me **patidargarv04@gmail.com**
 
