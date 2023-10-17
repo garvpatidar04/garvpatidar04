@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Garv Patidar</h1>
-<h3 align="center">A passionate frontend developer and pythonist from India</h3>
+<h3 align="center">A passionate pythonist and Machine Learning enthusiast from India.</h3>
 <img align="right" alt="Coding" width="400" src="https://i.ibb.co/XZxvKKs/ML-transformed-1.png" width="200" height="300"  >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=garvpatidar04&label=Profile%20views&color=0e75b6&style=flat" alt="garvpatidar04" /> </p>
